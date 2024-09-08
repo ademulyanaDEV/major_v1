@@ -6,6 +6,6 @@ cd major_v1
 
 npm install
 
-nano data.txt (querry)
+nano data.txt (querry bot major)
 
 node main.js
